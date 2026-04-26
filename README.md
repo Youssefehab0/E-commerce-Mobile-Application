@@ -8,7 +8,7 @@ A modern and user-friendly **mobile shopping application** built with **Flutter*
 - View product details with images and prices  
 - Add products to cart  
 - Update quantity or remove items from cart  
-- Manage orders بسهولة  
+- Manage orders easliy   
 - Responsive and clean user interface  
 - Fast and smooth performance using Flutter  
 
@@ -24,6 +24,7 @@ A modern and user-friendly **mobile shopping application** built with **Flutter*
 ```bash
 lib/
 │── models/
+│── provider/
 │── screens/
 │── widgets/
 │── services/
