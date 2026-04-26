@@ -1,16 +1,30 @@
-# e_comrcee_with_api_with_gad
+# 🛒 E-Commerce Mobile Application
 
-A new Flutter project.
+A modern and user-friendly **mobile shopping application** built with **Flutter**, designed to provide a smooth online shopping experience for users.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Browse products by categories  
+- View product details with images and prices  
+- Add products to cart  
+- Update quantity or remove items from cart  
+- Manage orders بسهولة  
+- Responsive and clean user interface  
+- Fast and smooth performance using Flutter  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Dart**
+- **Firebase / API Integration** *(if used)*
+- **State Management** *(Provider / GetX / Bloc if used)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```bash
+lib/
+│── models/
+│── screens/
+│── widgets/
+│── services/
+│── main.dart
