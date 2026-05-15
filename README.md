@@ -1,31 +1,43 @@
-# 🛒 E-Commerce Mobile Application
+# 📱 E-commerce Mobile Application
 
-A modern and user-friendly **mobile shopping application** built with **Flutter**, designed to provide a smooth online shopping experience for users.
+A cross-platform mobile application built with Flutter that connects to a backend REST API for a complete shopping experience.
 
-## 📱 Features
+---
 
-- Browse products by categories  
-- View product details with images and prices  
-- Add products to cart  
-- Update quantity or remove items from cart  
-- Manage orders easliy   
-- Responsive and clean user interface  
-- Fast and smooth performance using Flutter  
+## 🚀 Overview
 
-## 🛠️ Built With
+This mobile app provides a smooth and responsive shopping experience, including product browsing, cart management, and order placement.
 
-- **Flutter**
-- **Dart**
-- **Firebase / API Integration** *(if used)*
-- **State Management** *(Provider / GetX / Bloc if used)*
+---
 
-## 📂 Project Structure
+## 🛠 Tech Stack
 
-```bash
-lib/
-│── models/
-│── provider/
-│── screens/
-│── widgets/
-│── services/
-│── main.dart
+- Flutter
+- Dart
+- REST API Integration
+- State Management (setState / Provider if used)
+
+---
+
+## ✨ Key Features
+
+- 🛍 Product Listing & Details
+- 🛒 Shopping Cart System
+- 💳 Checkout Flow
+- 🔄 API Integration with Backend
+- 📱 Responsive UI (Android & iOS)
+
+---
+
+## 🔗 Backend Integration
+
+Connected to ASP.NET Core Web API for:
+- Authentication
+- Products
+- Orders
+
+---
+
+## 📌 Status
+
+✔️ Completed – Connected to Backend API
