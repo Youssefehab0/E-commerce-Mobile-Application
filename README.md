@@ -15,7 +15,7 @@ This mobile app provides a smooth and responsive shopping experience, including 
 - Flutter
 - Dart
 - REST API Integration
-- State Management (setState / Provider if used)
+- State Management (setState / Provider)
 
 ---
 
